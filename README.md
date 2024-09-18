@@ -1,6 +1,6 @@
 <div align="center">
     <h2>🚀 About Me</h2>
-    <p>Hello, I'm a Software Quality Assurance Engineer, a specialist at test automation using javascript/typescript with Playwright, TestCase and Protractor test frameworks. Im also working as software engineer creating web applications using React, NextJS, Wordpress. Im living in Croatia (EU), My technical range is broad as I have worked in IT for a long time.</p>
+    <p>Hello, I'm a Software Quality Assurance Engineer, a specialist at test automation using Javascript, Typescript with Playwright, TestCafe and Protractor test frameworks. I'm also working as software engineer creating web applications using React, NextJS, Wordpress. Im living in Croatia (EU), My technical range is broad as I have worked in IT for a long time.</p>
 </div>
 
 <div align="center">
@@ -8,10 +8,10 @@
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/dejan-brni%C4%87-75027615/">
-    <img src="https://img.shields.io/badge/dejan-brnić-75027615?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/dejanbrnic-669bbc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href="https://github.com/dejo095" target="_blank">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-4f772d.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=dejo095&style=for-the-badge" alt="Profile views" />
 </div>
@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/tailwindcss-1d3557?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/shadcn-1d3557?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs"/>
 </div>
